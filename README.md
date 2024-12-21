@@ -104,6 +104,17 @@ Flow is more than just a GitHub clone—it's a showcase of advanced development 
 - Expanding analytics for repositories.
 - Localization support for non-English users.
 
+## Screenshots
+
+- Flow Home Page
+  ![Flow homePage](https://i.imghippo.com/files/CPwE6184hug.png)
+
+- Flow profile Page
+  ![Flow profile Page](https://i.imghippo.com/files/Lb3081xVA.png)
+
+- Popular repositories Page
+  ![Popular repositories Page](https://i.imghippo.com/files/goj3108dE.png)
+
 ---
 
 ### Author
