@@ -51,7 +51,7 @@ Flow is a sleek and modern GitHub clone built using the MERN stack (MongoDB, Exp
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/flow.git
+   git clone https://github.com/thaku7469/Flow.git
    cd flow
    ```
 
