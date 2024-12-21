@@ -108,4 +108,4 @@ Flow is more than just a GitHub clone—it's a showcase of advanced development 
 
 ### Author
 
-Developed with passion by Uday Thakur(https://github.com/thaku7469). Connect with me on [LinkedIn](www.linkedin.com/in/udaythakurindia) or check out my [portfolio](https://yourportfolio.com/).
+Developed with passion by [Uday Thakur](https://github.com/thaku7469). Connect with me on [LinkedIn](www.linkedin.com/in/udaythakurindia) or check out my [portfolio](https://yourportfolio.com/).
