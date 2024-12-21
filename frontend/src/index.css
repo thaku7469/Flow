@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background: -webkit-linear-gradient(180deg, #0f042f, #040113, #000000);
+		/* Chrome 10-25, Safari 5.1-6 */
+		background: linear-gradient(180deg, #0f042f, #040113, #000000);
+		/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+/* dark mode looking scrollbar */
+::-webkit-scrollbar {
+	width: 8px;
+}
+
+::-webkit-scrollbar-track {
+	background: #555;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #121212;
+	border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #242424;
+}
+
+@layer components {
+	.bg-glass {
+		@apply bg-clip-padding backdrop-filter backdrop-blur-md bg-opacity-10 
+		hover:bg-gray-600/10 border border-gray-800 text-white;
+	}
+}
