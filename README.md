@@ -86,7 +86,7 @@ Flow is a sleek and modern GitHub clone built using the MERN stack (MongoDB, Exp
 ## Deployment
 
 Flow is deployed and hosted for seamless access. Visit the live site at:
-[https://flow-app.example.com](https://flow-app.example.com)
+[https://flow-avt3.onrender.com](https://flow-avt3.onrender.com)
 
 ## Why Flow?
 
